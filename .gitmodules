@@ -1,0 +1,3 @@
+[submodule "zkevm-nodedrops"]
+	path = zkevm-nodedrops
+	url = git@github.com:RainbowScientist5/zkevm-nodedrops.git
