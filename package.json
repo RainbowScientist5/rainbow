@@ -311,7 +311,7 @@
     "vm-browserify": "0.0.4",
     "w2t": "3.0.2",
     "zeego": "1.10.0",
-    "zod": "3.24.0",
+    "zod": "3.24.1",
     "zustand": "4.5.4"
   },
   "devDependencies": {
